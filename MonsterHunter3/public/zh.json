@@ -1,0 +1,2145 @@
+[
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/velocidromeegg-1773096869866.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "蓝速龙王",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/velocidrome-icon-1773083377251.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★1",
+    "category": "鸟龙种",
+    "element": "",
+    "attackType": "速度",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "阿祖利亚 - 日瓣平原"
+    ],
+    "elemWeakness": [
+      {
+        "type": "冰",
+        "value": 2
+      },
+      {
+        "type": "火",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/royalludrothegg-1773096869862.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "水兽",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/royal-ludroth-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★2",
+    "category": "海龙种",
+    "element": "水",
+    "attackType": "力量",
+    "transformAtk": [
+      "技巧"
+    ],
+    "locations": [
+      "阿祖利亚 - 日瓣平原",
+      "阿祖利亚 - 镜湖"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/gypcerosegg-1773096869850.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "毒怪鸟",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/gypceros-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★2",
+    "category": "鸟龙种",
+    "element": "",
+    "attackType": "力量",
+    "transformAtk": [
+      "技巧"
+    ],
+    "locations": [
+      "阿祖利亚 - 日瓣平原",
+      "阿祖利亚 - 疫石林"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/nerscyllaegg-1773096869859.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "影蜘蛛",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/nerscylla-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "铗角种",
+    "element": "",
+    "attackType": "技巧",
+    "transformAtk": [
+      "速度"
+    ],
+    "locations": [
+      "阿祖利亚 - 日瓣平原",
+      "阿祖利亚 - 疫石林"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/yiankutkuegg-1773096869866.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "大怪鸟",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/yian-kut-ku-icon-1773083377251.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★2",
+    "category": "鸟龙种",
+    "element": "火",
+    "attackType": "技巧",
+    "transformAtk": [
+      "速度"
+    ],
+    "locations": [
+      "阿祖利亚 - 日瓣平原",
+      "阿祖利亚 - 镜湖"
+    ],
+    "elemWeakness": [
+      {
+        "type": "冰",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/rathianegg-1773096869862.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "雌火龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/rathian-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "飞龙种",
+    "element": "火",
+    "attackType": "速度",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "阿祖利亚 - 日瓣平原",
+      "濒危"
+    ],
+    "elemWeakness": [
+      {
+        "type": "龙",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/pinkrathianegg-1773096869860.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "雌火龙（樱）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/pink-rathian-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "飞龙种",
+    "element": "火",
+    "attackType": "速度",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "突变"
+    ],
+    "elemWeakness": [
+      {
+        "type": "龙",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/dreadqueenrathianegg-1773096869848.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "雌火龙（黑炎王）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/dreadqueen-rathian-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "飞龙种",
+    "element": "火",
+    "attackType": "速度",
+    "transformAtk": [],
+    "locations": [
+      "突变"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/chatacabraegg-1773096869846.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "砂蛙龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/chatacabra-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★1",
+    "category": "两栖种",
+    "element": "",
+    "attackType": "力量",
+    "transformAtk": [
+      "技巧"
+    ],
+    "locations": [
+      "阿祖利亚 - 阔叶盆地",
+      "阿祖利亚 - 疫石林"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/tobikadachiegg-1773096869866.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "飞雷龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/tobi-kadachi-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "牙龙种",
+    "element": "电",
+    "attackType": "速度",
+    "transformAtk": [
+      "技巧"
+    ],
+    "locations": [
+      "阿祖利亚 - 阔叶盆地"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "火",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/anjanathegg-1773096869841.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "蛮颚龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/anjanath-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "兽龙种",
+    "element": "火",
+    "attackType": "力量",
+    "transformAtk": [
+      "技巧"
+    ],
+    "locations": [
+      "阿祖利亚 - 阔叶盆地"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/blueyiankutkuegg-1773096869845.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "青怪鸟",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/blue-kut-ku-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "鸟龙种",
+    "element": "火",
+    "attackType": "技巧",
+    "transformAtk": [
+      "速度"
+    ],
+    "locations": [
+      "阿祖利亚 - 阔叶盆地",
+      "阿祖利亚 - 疫石林"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/purplegypcerosegg-1773096869861.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "紫毒怪鸟",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/purple-gypceros-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "鸟龙种",
+    "element": "",
+    "attackType": "力量",
+    "transformAtk": [
+      "技巧"
+    ],
+    "locations": [
+      "阿祖利亚 - 阔叶盆地"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/plesiothegg-1773096869860.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "水龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/plesioth-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "鱼龙种",
+    "element": "水",
+    "attackType": "速度",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "阿祖利亚 - 镜湖"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "火",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/greenplesiothegg-1773096869850.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "翠水龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/green-plesioth-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "鱼龙种",
+    "element": "水",
+    "attackType": "速度",
+    "transformAtk": [
+      "技巧"
+    ],
+    "locations": [
+      "阿祖利亚 - 镜湖",
+      "塔库安 - 丰饶沙丘"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "火",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/lagiacrusegg-1773096869855.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "海龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/lagiucrus-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "海龙种",
+    "element": "电",
+    "attackType": "力量",
+    "transformAtk": [
+      "速度",
+      "技巧"
+    ],
+    "locations": [
+      "阿祖利亚 - 镜湖",
+      "濒危"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "龙",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/ivorylagiacrusegg-1773096869853.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "海龙（白）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/ivory-lagiucrus-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "海龙种",
+    "element": "电",
+    "attackType": "速度",
+    "transformAtk": [
+      "力量",
+      "技巧"
+    ],
+    "locations": [
+      "突变"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "龙",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/astalosegg-1773096869842.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "电龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/astalos-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "飞龙种",
+    "element": "电",
+    "attackType": "速度",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "阿祖利亚 - 镜湖",
+      "濒危"
+    ],
+    "elemWeakness": [
+      {
+        "type": "冰",
+        "value": 2
+      },
+      {
+        "type": "水",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/boltreaverastalosegg-1773096869845.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "电龙（青电主）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/boltreaver-astalos-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "飞龙种",
+    "element": "电",
+    "attackType": "技巧",
+    "transformAtk": [],
+    "locations": [
+      "突变"
+    ],
+    "elemWeakness": [
+      {
+        "type": "冰",
+        "value": 2
+      },
+      {
+        "type": "水",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/namielleegg-1773096869858.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "溟波龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/namielle-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "古龙种",
+    "element": "水",
+    "attackType": "技巧",
+    "transformAtk": [
+      "速度",
+      "力量"
+    ],
+    "locations": [
+      "阿祖利亚 - 镜湖"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "龙",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/paolumuegg-1773096869860.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "浮空龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/paolumu-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "飞龙种",
+    "element": "",
+    "attackType": "技巧",
+    "transformAtk": [
+      "速度"
+    ],
+    "locations": [
+      "阿祖利亚 - 疫石林"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/garangolmegg-1773096869848.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "刚缠兽",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/garangolm-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "牙兽种",
+    "element": "",
+    "attackType": "力量",
+    "transformAtk": [
+      "速度"
+    ],
+    "locations": [
+      "卡纳尔塔深林 - 卡纳尔塔山",
+      "塔库安 - 巨龙遗骸"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/seregiosegg-1773096869864.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "千刃龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/seregios-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "飞龙种",
+    "element": "",
+    "attackType": "技巧",
+    "transformAtk": [
+      "速度"
+    ],
+    "locations": [
+      "卡纳尔塔深林 - 卡纳尔塔山"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/aknosomegg-1773096869841.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "伞鸟",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/aknosom-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "鸟龙种",
+    "element": "火",
+    "attackType": "技巧",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "卡纳尔塔深林 - 卡纳尔塔山"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/aurorasomnacanthegg-1773096869842.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "冰人鱼龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/aurora-somnacanth-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "海龙种",
+    "element": "冰",
+    "attackType": "技巧",
+    "transformAtk": [
+      "速度"
+    ],
+    "locations": [
+      "卡纳尔塔深林 - 卡纳尔塔山",
+      "卡纳尔塔深林 - 冻穴"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value":2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/yiangarugaegg-1773096869866.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "黑狼鸟",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/yian-garuga-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "鸟龙种",
+    "element": "火",
+    "attackType": "技巧",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "卡纳尔塔深林 - 卡纳尔塔山",
+      "卡纳尔塔深林 - 嚎枭森林"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/deadeyeyiangarugaegg-1773096869846.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "黑狼鸟（独眼）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/deadeye-yian-garuga-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "鸟龙种",
+    "element": "火",
+    "attackType": "",
+    "transformAtk": [],
+    "locations": [
+      "突变"
+    ],
+    "elemWeakness": [{
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/arzurosegg-1773096869842.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "青熊兽",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/arzuros-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★2",
+    "category": "牙兽种",
+    "element": "",
+    "attackType": "力量",
+    "transformAtk": [
+      "技巧"
+    ],
+    "locations": [
+      "卡纳尔塔深林 - 瀑布"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/purpleludrothegg-1773096869861.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "紫水兽",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/purple-ludroth-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "海龙种",
+    "element": "水",
+    "attackType": "力量",
+    "transformAtk": [
+      "技巧"
+    ],
+    "locations": [
+      "卡纳尔塔深林 - 瀑布"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/pukeipukeiegg-1773096869861.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "毒妖鸟",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/pukei-pukei-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "鸟龙种",
+    "element": "",
+    "attackType": "技巧",
+    "transformAtk": [
+      "细嚼慢咽-速度",
+      "力量"
+    ],
+    "locations": [
+      "卡纳尔塔深林 - 瀑布",
+      "卡纳尔塔深林 - 嚎枭森林"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/pukeipukeiegg-1773096869861.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "垂皮龙",
+    "monsterIcon": "./src/assets/images/Slagtoth.png",
+    "rank": "★3",
+    "category": "草食种",
+    "element": "",
+    "attackType": "力量",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "卡纳尔塔深林 - 严界山",
+      "卡纳尔塔深林 - 嚎枭森林"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      },
+      {
+        "type": "龙",
+        "value": 1,
+        "decay": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/tetranadonegg-1773096869865.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "河童蛙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/tetranadon-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "两栖种",
+    "element": "水",
+    "attackType": "力量",
+    "transformAtk": [
+      "技巧"
+    ],
+    "locations": [
+      "卡纳尔塔深林 - 瀑布"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "火",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/somnacanthegg-1773096869864.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "人鱼龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/somnacanth-1773088106549.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "海龙种",
+    "element": "水",
+    "attackType": "技巧",
+    "transformAtk": [
+      "速度"
+    ],
+    "locations": [
+      "卡纳尔塔深林 - 瀑布",
+      "卡纳尔塔深林 - 冻穴"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "火",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/greatizuchiegg-1773096869849.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "镰鼬龙王",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/izuchi-icon-1773083377251.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★1",
+    "category": "鸟龙种",
+    "element": "",
+    "attackType": "速度",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "卡纳尔塔深林 - 嚎枭森林"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "水",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/bishatenegg-1773096869844.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "天狗兽",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/bishaten-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "牙兽种",
+    "element": "",
+    "attackType": "技巧",
+    "transformAtk": [
+      "速度"
+    ],
+    "locations": [
+      "卡纳尔塔深林 - 嚎枭森林",
+      "卡纳尔塔深林 - 祝福山丘"
+    ],
+    "elemWeakness": [
+      {
+        "type": "冰",
+        "value": 2
+      },
+      {
+        "type": "火",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/nargacugaegg-1773096869859.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "迅龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/nargacuga-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "飞龙种",
+    "element": "",
+    "attackType": "速度",
+    "transformAtk": [
+      "技巧"
+    ],
+    "locations": [
+      "卡纳尔塔深林 - 祝福山丘",
+      "濒危"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "火",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/greennargacugaegg-1773096869849.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "绿迅龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/green-nargacuga-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "飞龙种",
+    "element": "",
+    "attackType": "速度",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "突变"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "火",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/silverwindnargacugaegg-1773096869864.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "迅龙（白疾风）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/silverwind-nargacuga-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "飞龙种",
+    "element": "",
+    "attackType": "速度",
+    "transformAtk": [],
+    "locations": [
+      "突变"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "火",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/canyneegg-1773096869846.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "犬龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/canyne-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "牙兽种",
+    "element": "",
+    "attackType": "速度",
+    "transformAtk": [],
+    "locations": [
+      "卡纳尔塔深林 - 祝福山丘"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/redkhezuegg-1773096869862.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "红电龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/red-khezu-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "飞龙种",
+    "element": "电",
+    "attackType": "技巧",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "卡纳尔塔深林 - 冻穴",
+      "塞拉蒂斯 - 冰盖"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/khezuegg-1773096869854.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "电龙（夫鲁夫鲁）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/khezu-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "飞龙种",
+    "element": "电",
+    "attackType": "技巧",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "卡纳尔塔深林 - 冻穴"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/mizutsuneegg-1773096869858.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "泡狐龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/mizutsune-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "海龙种",
+    "element": "水",
+    "attackType": "技巧",
+    "transformAtk": [
+      "速度",
+      "速度"
+    ],
+    "locations": [
+      "卡纳尔塔深林 - 冻穴",
+      "濒危"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "龙",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/soulseermizutsuneegg-1773096869864.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "泡狐龙（天眼）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/soulseer-mizutsune-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "海龙种",
+    "element": "水",
+    "attackType": "速度",
+    "transformAtk": [],
+    "locations": [
+      "突变"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "龙",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/kuluyakuegg-1773096869854.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "搔鸟",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/kulu-ya-ku-icon-1773083377251.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★2",
+    "category": "鸟龙种",
+    "element": "",
+    "attackType": "技巧",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "塔库安 - 巨龙遗骸"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/shogunceanatauregg-1773096869864.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "将军镰蟹",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/ceanataur-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "甲壳种",
+    "element": "水",
+    "attackType": "速度",
+    "transformAtk": [
+      "技巧",
+      "力量"
+    ],
+    "locations": [
+      "塔库安 - 巨龙遗骸"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "火",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/barrothegg-1773096869843.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "土砂龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/barroth-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "兽龙种",
+    "element": "",
+    "attackType": "速度",
+    "transformAtk": [
+      "技巧"
+    ],
+    "locations": [
+      "塔库安 - 巨龙遗骸"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/almudronegg-1773096869841.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "泥翁龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/almudron-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "海龙种",
+    "element": "水",
+    "attackType": "力量",
+    "transformAtk": [
+      "技巧",
+      "速度"
+    ],
+    "locations": [
+      "塔库安 - 巨龙遗骸"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/tigrexegg-1773096869865.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "轰龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/tigrex-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "飞龙种",
+    "element": "",
+    "attackType": "速度",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "塔库安 - 巨龙遗骸",
+      "濒危"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "龙",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/brutetigrexegg-1773096869846.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "轰龙（黑）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/brute-tigrex-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "飞龙种",
+    "element": "",
+    "attackType": "力量",
+    "transformAtk": [
+      "速度"
+    ],
+    "locations": [
+      "突变",
+      "突变"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/grimclawtigrexegg-1773096869850.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "轰龙（荒钩爪）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/grimclar-tigrex-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "飞龙种",
+    "element": "",
+    "attackType": "",
+    "transformAtk": [],
+    "locations": [
+      "突变",
+      "突变"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "龙",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/diablosegg-1773096869847.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "角龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/diablos-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "飞龙种",
+    "element": "",
+    "attackType": "力量",
+    "transformAtk": [
+      "速度",
+      "速度"
+    ],
+    "locations": [
+      "塔库安 - 洛可可岩"
+    ],
+    "elemWeakness": [
+      {
+        "type": "冰",
+        "value": 2
+      },
+      {
+        "type": "水",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/blackdiablosegg-1773096869844.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "角龙（黑）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/black-diablos-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "飞龙种",
+    "element": "",
+    "attackType": "力量",
+    "transformAtk": [
+      "速度",
+      "速度"
+    ],
+    "locations": [
+      "塔库安 - 洛可可岩",
+      "塔库安 - 死颚"
+    ],
+    "elemWeakness": [
+      {
+        "type": "冰",
+        "value": 2
+      },
+      {
+        "type": "水",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/bloodbathdiablosegg-1773096869845.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "角龙（鏖魔）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/bloodbath-diablos-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "飞龙种",
+    "element": "",
+    "attackType": "速度",
+    "transformAtk": [],
+    "locations": [
+      "突变"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "龙",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/shroudednerscyllaegg-1773096869864.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "影蜘蛛（暗）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/shrouded-nerscylla-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "铗角种",
+    "element": "",
+    "attackType": "技巧",
+    "transformAtk": [
+      "速度"
+    ],
+    "locations": [
+      "塔库安 - 洛可可岩"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/graviosegg-1773096869849.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "铠龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/gravios-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "飞龙种",
+    "element": "火",
+    "attackType": "力量",
+    "transformAtk": [
+      "技巧"
+    ],
+    "locations": [
+      "塔库安 - 洛可可岩"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "龙",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/glavenusegg-1773096869848.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "斩龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/glavenus-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "兽龙种",
+    "element": "火",
+    "attackType": "速度",
+    "transformAtk": [
+      "技巧",
+      "力量"
+    ],
+    "locations": [
+      "塔库安 - 洛可可岩"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/hellbladeglavenusegg-1773096869852.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "斩龙（烬灭刃）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/hellblade-glavenus-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "兽龙种",
+    "element": "火",
+    "attackType": "速度",
+    "transformAtk": [],
+    "locations": [
+      "突变"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/zinogreegg-1773096869867.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "雷狼龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/zinogre-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "牙龙种",
+    "element": "电",
+    "attackType": "速度",
+    "transformAtk": [
+      "技巧",
+      "力量"
+    ],
+    "locations": [
+      "塔库安 - 洛可可岩",
+      "濒危"
+    ],
+    "elemWeakness": [
+      {
+        "type": "冰",
+        "value": 2
+      },
+      {
+        "type": "水",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/stygianzinogreegg-1773096869865.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "雷狼龙（狱）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/stygian-zinogre-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "牙龙种",
+    "element": "龙",
+    "attackType": "技巧",
+    "transformAtk": [
+      "速度",
+      "力量"
+    ],
+    "locations": [
+      "突变"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/thunderlordzinogreegg-1773096869865.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "雷狼龙（金雷公）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/thunderlord-zinogre-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "牙龙种",
+    "element": "电",
+    "attackType": "力量",
+    "transformAtk": [],
+    "locations": [
+      "突变"
+    ],
+    "elemWeakness": [
+      {
+        "type": "冰",
+        "value": 2
+      },
+      {
+        "type": "水",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/espinasegg-1773096869848.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "棘龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/espinas-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "飞龙种",
+    "element": "火",
+    "attackType": "力量",
+    "transformAtk": [
+      "速度",
+      "力量"
+    ],
+    "locations": [
+      "塔库安 - 丰饶沙丘"
+    ],
+    "elemWeakness": [
+      {
+        "type": "冰",
+        "value": 2
+      },
+      {
+        "type": "龙",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/blackgraviosegg-1773096869844.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "铠龙（黑）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/black-gravios-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "飞龙种",
+    "element": "火",
+    "attackType": "力量",
+    "transformAtk": [
+      "技巧"
+    ],
+    "locations": [
+      "塔库安 - 丰饶沙丘",
+      "塔库安 - 死颚"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "龙",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/bloodorangebishatenegg-1773096869845.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "天狗兽（绯）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/blood-orange-bishaten-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "牙兽种",
+    "element": "火",
+    "attackType": "速度",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "塔库安 - 丰饶沙丘"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/ajarakanegg-1773096869840.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "炎猴",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/ajarakan-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "牙兽种",
+    "element": "火",
+    "attackType": "技巧",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "塔库安 - 丰饶沙丘"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/odogaronegg-1773096869860.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "惨爪龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/odogaron-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "牙龙种",
+    "element": "",
+    "attackType": "速度",
+    "transformAtk": [
+      "速度",
+      "力量"
+    ],
+    "locations": [
+      "塔库安 - 死颚"
+    ],
+    "elemWeakness": [
+      {
+        "type": "冰",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/reydauegg-1773096869862.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "雷道",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/rey-dau-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "飞龙种",
+    "element": "电",
+    "attackType": "速度",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "塔库安 - 死颚"
+    ],
+    "elemWeakness": [
+      {
+        "type": "冰",
+        "value": 2
+      },
+      {
+        "type": "水",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/raknakadakiegg-1773096869861.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "妃蜘蛛",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/rakna-kadaki-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "铗角种",
+    "element": "",
+    "attackType": "技巧",
+    "transformAtk": [
+      "技巧",
+      "速度"
+    ],
+    "locations": [
+      "塔库安 - 死颚"
+    ],
+    "elemWeakness": [
+      {
+        "type": "冰",
+        "value": 2
+      },
+      {
+        "type": "水",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/blangongaegg-1773096869844.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "雪狮子王",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/blango-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "牙兽种",
+    "element": "冰",
+    "attackType": "力量",
+    "transformAtk": [
+      "速度"
+    ],
+    "locations": [
+      "塞拉蒂斯 - 冰盖"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/brachydiosegg-1773096869845.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "碎龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/brachydios-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "兽龙种",
+    "element": "",
+    "attackType": "力量",
+    "transformAtk": [
+      "速度",
+      "力量"
+    ],
+    "locations": [
+      "塞拉蒂斯 - 冰盖"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/legianaegg-1773096869855.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "风漂龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/legiana-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "飞龙种",
+    "element": "冰",
+    "attackType": "速度",
+    "transformAtk": [
+      "力量",
+      "技巧"
+    ],
+    "locations": [
+      "塞拉蒂斯 - 冰盖"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "火",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/bariothegg-1773096869843.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "冰牙龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/barioth-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "飞龙种",
+    "element": "冰",
+    "attackType": "技巧",
+    "transformAtk": [
+      "速度"
+    ],
+    "locations": [
+      "塞拉蒂斯 - 冰盖",
+      "濒危"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/sandbariothegg-1773096869862.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "砂冰牙龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/sand-barioth-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "飞龙种",
+    "element": "",
+    "attackType": "技巧",
+    "transformAtk": [
+      "速度"
+    ],
+    "locations": [
+      "突变"
+    ],
+    "elemWeakness": [
+      {
+        "type": "冰",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/velkhanaegg-1773096869866.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "冰咒龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/velkhana-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "古龙种",
+    "element": "冰",
+    "attackType": "技巧",
+    "transformAtk": [
+      "速度",
+      "力量"
+    ],
+    "locations": [
+      "塞拉蒂斯 - 冰盖"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "龙",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/magnamaloegg-1773096869857.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "怨虎龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/magnamalo-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "牙龙种",
+    "element": "",
+    "attackType": "速度",
+    "transformAtk": [
+      "力量",
+      "技巧"
+    ],
+    "locations": [
+      "塞拉蒂斯 - 旧都路"
+    ],
+    "elemWeakness": [
+      {
+        "type": "电",
+        "value": 2
+      },
+      {
+        "type": "水",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/lunagaronegg-1773096869856.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "冰狼龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/lunagaron-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "牙龙种",
+    "element": "冰",
+    "attackType": "速度",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "塞拉蒂斯 - 旧都路"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/gossharagegg-1773096869849.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "雪鬼兽",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/goss-harag-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "牙兽种",
+    "element": "冰",
+    "attackType": "力量",
+    "transformAtk": [
+      "技巧",
+      "速度"
+    ],
+    "locations": [
+      "塞拉蒂斯 - 旧都路"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/fulguranjanathegg-1773096869848.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "蛮颚龙（雷）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/fulgur-anjanath-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "兽龙种",
+    "element": "电",
+    "attackType": "力量",
+    "transformAtk": [
+      "速度",
+      "速度"
+    ],
+    "locations": [
+      "塞拉蒂斯 - 旧都路"
+    ],
+    "elemWeakness": [
+      {
+        "type": "冰",
+        "value": 2
+      },
+      {
+        "type": "水",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/jadebarrothegg-1773096869854.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "冰土砂龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/jade-barroth-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "兽龙种",
+    "element": "冰",
+    "attackType": "力量",
+    "transformAtk": [
+      "技巧"
+    ],
+    "locations": [
+      "塞拉蒂斯 - 旧都路"
+    ],
+    "elemWeakness": [
+      {
+        "type": "火",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/ebonyodogaronegg-1773096869848.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "惨爪龙（乌）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/ebony-odogaron-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "牙龙种",
+    "element": "龙",
+    "attackType": "速度",
+    "transformAtk": [
+      "速度",
+      "力量"
+    ],
+    "locations": [
+      "塞拉蒂斯 - 圣域/拉兹里昂"
+    ],
+    "elemWeakness": [
+      {
+        "type": "水",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/deviljhoegg-1773096869846.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "恐暴龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/deviljho-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "兽龙种",
+    "element": "龙",
+    "attackType": "力量",
+    "transformAtk": [
+      "速度",
+      "力量"
+    ],
+    "locations": [
+      "塞拉蒂斯 - 圣域/拉兹里昂"
+    ],
+    "elemWeakness": [
+      {
+        "type": "龙",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/arkveldegg-1773096869842.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "阿克维尔德",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/arkveld-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "飞龙种",
+    "element": "龙",
+    "attackType": "技巧",
+    "transformAtk": [
+      "力量"
+    ],
+    "locations": [
+      "塞拉蒂斯 - 圣域/拉兹里昂"
+    ],
+    "elemWeakness": [
+      {
+        "type": "龙",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/malzenoegg-1773096869857.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "爵银龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/malzeno-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "古龙种",
+    "element": "龙",
+    "attackType": "速度",
+    "transformAtk": [
+      "技巧",
+      "速度"
+    ],
+    "locations": [
+      "塞拉蒂斯 - 圣域/拉兹里昂"
+    ],
+    "elemWeakness": [
+      {
+        "type": "龙",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/rathalosegg-1773096869862.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "火龙",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/rathalos-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "飞龙种",
+    "element": "火",
+    "attackType": "力量",
+    "transformAtk": [
+      "技巧",
+      "速度"
+    ],
+    "locations": [
+      "塞拉蒂斯 - 圣域/拉兹里昂"
+    ],
+    "elemWeakness": [
+      {
+        "type": "龙",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/azurerathalosegg-1773096869843.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "火龙（苍）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/azure-rathalos-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "飞龙种",
+    "element": "火",
+    "attackType": "力量",
+    "transformAtk": [
+      "技巧",
+      "速度"
+    ],
+    "locations": [
+      "突变"
+    ],
+    "elemWeakness": [
+      {
+        "type": "龙",
+        "value": 2
+      },
+      {
+        "type": "冰",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/dreadkingrathalosegg-1773096869848.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "雄火龙（黑炎王）",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/dreadking-rathalos-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "飞龙种",
+    "element": "火",
+    "attackType": "力量",
+    "transformAtk": [],
+    "locations": [
+      "突变"
+    ],
+    "elemWeakness": [
+      {
+        "type": "龙",
+        "value": 2
+      },
+      {
+        "type": "电",
+        "value": 1
+      }
+    ]
+  }
+]

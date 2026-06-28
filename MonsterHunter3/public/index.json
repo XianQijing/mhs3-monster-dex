@@ -1,0 +1,1622 @@
+[
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/velocidromeegg-1773096869866.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Velocidrome",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/velocidrome-icon-1773083377251.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★1",
+    "category": "Bird Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Azuria - Sunpetal Plains"
+    ],
+    "elemWeakness": [
+      "Ice",
+      "Fire"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/royalludrothegg-1773096869862.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Royal Ludroth",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/royal-ludroth-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★2",
+    "category": "Leviathan",
+    "element": "Water",
+    "attackType": "Power",
+    "transformAtk": [
+      "Technical"
+    ],
+    "locations": [
+      "Azuria - Sunpetal Plains",
+      "Azuria - Mirror Lake"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/gypcerosegg-1773096869850.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Gypceros",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/gypceros-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★2",
+    "category": "Bird Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Power",
+    "transformAtk": [
+      "Technical"
+    ],
+    "locations": [
+      "Azuria - Sunpetal Plains",
+      "Azuria - Blightstone Woods"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/nerscyllaegg-1773096869859.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Nerscylla",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/nerscylla-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "Temnoceran",
+    "element": "Non-Elemental",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Speed"
+    ],
+    "locations": [
+      "Azuria - Sunpetal Plains",
+      "Azuria - Blightstone Woods"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/yiankutkuegg-1773096869866.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Yian Kut-Ku",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/yian-kut-ku-icon-1773083377251.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★2",
+    "category": "Bird Wyvern",
+    "element": "Fire",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Speed"
+    ],
+    "locations": [
+      "Azuria - Sunpetal Plains",
+      "Azuria - Mirror Lake"
+    ],
+    "elemWeakness": [
+      "Ice",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/rathianegg-1773096869862.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Rathian",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/rathian-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "Flying Wyvern",
+    "element": "Fire",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Azuria - Sunpetal Plains",
+      "Endangered"
+    ],
+    "elemWeakness": [
+      "Dragon",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/pinkrathianegg-1773096869860.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Pink Rathian",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/pink-rathian-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Flying Wyvern",
+    "element": "Fire",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Mutation"
+    ],
+    "elemWeakness": [
+      "Dragon",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/dreadqueenrathianegg-1773096869848.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Dreadqueen Rathian",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/dreadqueen-rathian-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "Flying Wyvern",
+    "element": "Fire",
+    "attackType": "Speed",
+    "transformAtk": [],
+    "locations": [
+      "Mutation"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/chatacabraegg-1773096869846.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Chatacabra",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/chatacabra-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★1",
+    "category": "Amphibian",
+    "element": "Non-Elemental",
+    "attackType": "Power",
+    "transformAtk": [
+      "Technical"
+    ],
+    "locations": [
+      "Azuria - Broadleaf Basin",
+      "Azuria - Blightstone Woods"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/tobikadachiegg-1773096869866.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Tobi-Kadachi",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/tobi-kadachi-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "Fanged Wyvern",
+    "element": "Thunder",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Technical"
+    ],
+    "locations": [
+      "Azuria - Broadleaf Basin"
+    ],
+    "elemWeakness": [
+      "Water",
+      "Fire"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/anjanathegg-1773096869841.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Anjanath",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/anjanath-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "Brute Wyvern",
+    "element": "Fire",
+    "attackType": "Power",
+    "transformAtk": [
+      "Technical"
+    ],
+    "locations": [
+      "Azuria - Broadleaf Basin"
+    ],
+    "elemWeakness": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/blueyiankutkuegg-1773096869845.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Blue Yian Kut-Ku",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/blue-kut-ku-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "Bird Wyvern",
+    "element": "Fire",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Speed"
+    ],
+    "locations": [
+      "Azuria - Broadleaf Basin",
+      "Azuria - Blightstone Woods"
+    ],
+    "elemWeakness": [
+      "Water",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/purplegypcerosegg-1773096869861.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Purple Gypceros",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/purple-gypceros-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "Bird Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Power",
+    "transformAtk": [
+      "Technical"
+    ],
+    "locations": [
+      "Azuria - Broadleaf Basin"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/plesiothegg-1773096869860.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Plesioth",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/plesioth-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "Piscine Wyvern",
+    "element": "Water",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Azuria - Mirror Lake"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Fire"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/greenplesiothegg-1773096869850.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Green Plesioth",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/green-plesioth-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Piscine Wyvern",
+    "element": "Water",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Technical"
+    ],
+    "locations": [
+      "Azuria - Mirror Lake",
+      "Tarkuan - Bountiful Dunes"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Fire"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/lagiacrusegg-1773096869855.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Lagiacrus",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/lagiucrus-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Leviathan",
+    "element": "Thunder",
+    "attackType": "Power",
+    "transformAtk": [
+      "Speed",
+      "Technical"
+    ],
+    "locations": [
+      "Azuria - Mirror Lake",
+      "Endangered"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Dragon"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/ivorylagiacrusegg-1773096869853.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Ivory Lagiacrus",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/ivory-lagiucrus-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "Leviathan",
+    "element": "Thunder",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Power",
+      "Technical"
+    ],
+    "locations": [
+      "Mutation"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Dragon"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/astalosegg-1773096869842.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Astalos",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/astalos-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Flying Wyvern",
+    "element": "Thunder",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Azuria - Mirror Lake",
+      "Endangered"
+    ],
+    "elemWeakness": [
+      "Ice",
+      "Water"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/boltreaverastalosegg-1773096869845.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Boltreaver Astalos",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/boltreaver-astalos-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "Flying Wyvern",
+    "element": "Thunder",
+    "attackType": "Technical",
+    "transformAtk": [],
+    "locations": [
+      "Mutation"
+    ],
+    "elemWeakness": [
+      "Ice",
+      "Water"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/namielleegg-1773096869858.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Namielle",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/namielle-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "Elder Dragon",
+    "element": "Water",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Speed",
+      "Power"
+    ],
+    "locations": [
+      "Azuria - Mirror Lake"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Dragon"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/paolumuegg-1773096869860.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Paolumu",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/paolumu-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "Flying Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Speed"
+    ],
+    "locations": [
+      "Azuria - Blightstone Woods"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/garangolmegg-1773096869848.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Garangolm",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/garangolm-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "Fanged Beast",
+    "element": "Non-Elemental",
+    "attackType": "Power",
+    "transformAtk": [
+      "Speed"
+    ],
+    "locations": [
+      "Canalta Timberland - Mt. Canalta",
+      "Tarkuan - Colossal Dragon Remains"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/seregiosegg-1773096869864.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Seregios",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/seregios-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "Flying Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Speed"
+    ],
+    "locations": [
+      "Canalta Timberland - Mt. Canalta"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/aknosomegg-1773096869841.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Aknosom",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/aknosom-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "Bird Wyvern",
+    "element": "Fire",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Canalta Timberland - Mt. Canalta"
+    ],
+    "elemWeakness": [
+      "Water",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/aurorasomnacanthegg-1773096869842.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Aurora Somnacanth",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/aurora-somnacanth-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Leviathan",
+    "element": "Ice",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Speed"
+    ],
+    "locations": [
+      "Canalta Timberland - Mt. Canalta",
+      "Canalta Timberland - Frozen Grotto"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/yiangarugaegg-1773096869866.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Yian Garuga",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/yian-garuga-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "Bird Wyvern",
+    "element": "Fire",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Canalta Timberland - Mt. Canalta",
+      "Canalta Timberland - Howlinyowl Forest"
+    ],
+    "elemWeakness": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/deadeyeyiangarugaegg-1773096869846.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Deadeye Yian Garuga",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/deadeye-yian-garuga-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "Bird Wyvern",
+    "element": "Fire",
+    "attackType": "",
+    "transformAtk": [],
+    "locations": [
+      "Mutation"
+    ],
+    "elemWeakness": []
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/arzurosegg-1773096869842.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Arzuros",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/arzuros-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★2",
+    "category": "Fanged Beast",
+    "element": "Non-Elemental",
+    "attackType": "Power",
+    "transformAtk": [
+      "Technical"
+    ],
+    "locations": [
+      "Canalta Timberland - Cataracts"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/purpleludrothegg-1773096869861.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Purple Ludroth",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/purple-ludroth-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "Leviathan",
+    "element": "Water",
+    "attackType": "Power",
+    "transformAtk": [
+      "Technical"
+    ],
+    "locations": [
+      "Canalta Timberland - Cataracts"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/pukeipukeiegg-1773096869861.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Pukei-Pukei",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/pukei-pukei-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "Bird Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Speed",
+      "Power"
+    ],
+    "locations": [
+      "Canalta Timberland - Cataracts",
+      "Canalta Timberland - Howlinyowl Forest"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/tetranadonegg-1773096869865.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Tetranadon",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/tetranadon-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "Amphibian",
+    "element": "Water",
+    "attackType": "Power",
+    "transformAtk": [
+      "Technical"
+    ],
+    "locations": [
+      "Canalta Timberland - Cataracts"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Fire"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/somnacanthegg-1773096869864.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Somnacanth",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/somnacanth-1773088106549.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "Leviathan",
+    "element": "Water",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Speed",
+      "Speed"
+    ],
+    "locations": [
+      "Canalta Timberland - Cataracts",
+      "Canalta Timberland - Frozen Grotto"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Fire"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/greatizuchiegg-1773096869849.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Great Izuchi",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/izuchi-icon-1773083377251.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★1",
+    "category": "Bird Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Canalta Timberland - Howlinyowl Forest"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Water"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/bishatenegg-1773096869844.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Bishaten",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/bishaten-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "Fanged Beast",
+    "element": "Non-Elemental",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Speed"
+    ],
+    "locations": [
+      "Canalta Timberland - Howlinyowl Forest",
+      "Canalta Timberland - Blessing Hill"
+    ],
+    "elemWeakness": [
+      "Ice",
+      "Fire"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/nargacugaegg-1773096869859.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Nargacuga",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/nargacuga-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "Flying Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Technical"
+    ],
+    "locations": [
+      "Canalta Timberland - Blessing Hill",
+      "Endangered"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Fire"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/greennargacugaegg-1773096869849.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Green Nargacuga",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/green-nargacuga-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Flying Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Mutation"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Fire"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/silverwindnargacugaegg-1773096869864.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Silverwind Nargacuga",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/silverwind-nargacuga-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "Flying Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Speed",
+    "transformAtk": [],
+    "locations": [
+      "Mutation"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Fire"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/canyneegg-1773096869846.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Canyne",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/canyne-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Fanged Beast",
+    "element": "Non-Elemental",
+    "attackType": "Speed",
+    "transformAtk": [],
+    "locations": [
+      "Canalta Timberland - Blessing Hill"
+    ],
+    "elemWeakness": [
+      "Water",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/redkhezuegg-1773096869862.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Red Khezu",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/red-khezu-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "Flying Wyvern",
+    "element": "Thunder",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Canalta Timberland - Frozen Grotto",
+      "Serathis - Glacial Caps"
+    ],
+    "elemWeakness": [
+      "Water"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/khezuegg-1773096869854.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Khezu",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/khezu-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "Flying Wyvern",
+    "element": "Thunder",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Canalta Timberland - Frozen Grotto"
+    ],
+    "elemWeakness": [
+      "Fire"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/mizutsuneegg-1773096869858.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Mizutsune",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/mizutsune-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Leviathan",
+    "element": "Water",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Speed",
+      "Speed"
+    ],
+    "locations": [
+      "Canalta Timberland - Frozen Grotto",
+      "Endangered"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Dragon"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/soulseermizutsuneegg-1773096869864.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Soulseer Mizutsune",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/soulseer-mizutsune-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "Leviathan",
+    "element": "Water",
+    "attackType": "Speed",
+    "transformAtk": [],
+    "locations": [
+      "Mutation"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Dragon"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/kuluyakuegg-1773096869854.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Kulu-Ya-Ku",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/kulu-ya-ku-icon-1773083377251.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★2",
+    "category": "Bird Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Tarkuan - Colossal Dragon Remains"
+    ],
+    "elemWeakness": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/shogunceanatauregg-1773096869864.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Shogun Ceanataur",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/ceanataur-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "Carapaceon",
+    "element": "Water",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Technical",
+      "Power"
+    ],
+    "locations": [
+      "Tarkuan - Colossal Dragon Remains"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Fire"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/barrothegg-1773096869843.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Barroth",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/barroth-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "Brute Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Technical"
+    ],
+    "locations": [
+      "Tarkuan - Colossal Dragon Remains"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/almudronegg-1773096869841.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Almudron",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/almudron-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Leviathan",
+    "element": "Water",
+    "attackType": "Power",
+    "transformAtk": [
+      "Technical",
+      "Speed"
+    ],
+    "locations": [
+      "Tarkuan - Colossal Dragon Remains"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/tigrexegg-1773096869865.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Tigrex",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/tigrex-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Flying Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Tarkuan - Colossal Dragon Remains",
+      "Endangered"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Dragon"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/brutetigrexegg-1773096869846.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Brute Tigrex",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/brute-tigrex-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "Flying Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Power",
+    "transformAtk": [
+      "Speed"
+    ],
+    "locations": [
+      "Mutation",
+      "Mutation"
+    ],
+    "elemWeakness": [
+      "Water",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/grimclawtigrexegg-1773096869850.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Grimclaw Tigrex",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/grimclar-tigrex-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "Flying Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "",
+    "transformAtk": [],
+    "locations": [
+      "Mutation",
+      "Mutation"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Dragon"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/diablosegg-1773096869847.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Diablos",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/diablos-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Flying Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Power",
+    "transformAtk": [
+      "Speed",
+      "Speed"
+    ],
+    "locations": [
+      "Tarkuan - Rococo Rocks"
+    ],
+    "elemWeakness": [
+      "Ice",
+      "Water"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/blackdiablosegg-1773096869844.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Black Diablos",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/black-diablos-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "Flying Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Power",
+    "transformAtk": [
+      "Speed",
+      "Speed"
+    ],
+    "locations": [
+      "Tarkuan - Rococo Rocks",
+      "Tarkuan - Death's Maw"
+    ],
+    "elemWeakness": [
+      "Ice",
+      "Water"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/bloodbathdiablosegg-1773096869845.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Bloodbath Diablos",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/bloodbath-diablos-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "Flying Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Speed",
+    "transformAtk": [],
+    "locations": [
+      "Mutation"
+    ],
+    "elemWeakness": [
+      "Water",
+      "Dragon"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/shroudednerscyllaegg-1773096869864.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Shrouded Nerscylla",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/shrouded-nerscylla-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "Temnoceran",
+    "element": "Non-Elemental",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Speed"
+    ],
+    "locations": [
+      "Tarkuan - Rococo Rocks"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/graviosegg-1773096869849.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Gravios",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/gravios-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Flying Wyvern",
+    "element": "Fire",
+    "attackType": "Power",
+    "transformAtk": [
+      "Technical"
+    ],
+    "locations": [
+      "Tarkuan - Rococo Rocks"
+    ],
+    "elemWeakness": [
+      "Water",
+      "Dragon"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/glavenusegg-1773096869848.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Glavenus",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/glavenus-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Brute Wyvern",
+    "element": "Fire",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Technical",
+      "Power"
+    ],
+    "locations": [
+      "Tarkuan - Rococo Rocks"
+    ],
+    "elemWeakness": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/hellbladeglavenusegg-1773096869852.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Hellblade Glavenus",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/hellblade-glavenus-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "Brute Wyvern",
+    "element": "Fire",
+    "attackType": "Speed",
+    "transformAtk": [],
+    "locations": [
+      "Mutation"
+    ],
+    "elemWeakness": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/zinogreegg-1773096869867.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Zinogre",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/zinogre-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Fanged Wyvern",
+    "element": "Thunder",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Technical",
+      "Power"
+    ],
+    "locations": [
+      "Tarkuan - Rococo Rocks",
+      "Endangered"
+    ],
+    "elemWeakness": [
+      "Ice",
+      "Water"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/stygianzinogreegg-1773096869865.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Stygian Zinogre",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/stygian-zinogre-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "Fanged Wyvern",
+    "element": "Dragon",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Speed",
+      "Power"
+    ],
+    "locations": [
+      "Mutation"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/thunderlordzinogreegg-1773096869865.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Thunderlord Zinogre",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/thunderlord-zinogre-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "Fanged Wyvern",
+    "element": "Thunder",
+    "attackType": "Power",
+    "transformAtk": [],
+    "locations": [
+      "Mutation"
+    ],
+    "elemWeakness": [
+      "Ice",
+      "Water"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/espinasegg-1773096869848.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Espinas",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/espinas-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "Flying Wyvern",
+    "element": "Fire",
+    "attackType": "Power",
+    "transformAtk": [
+      "Speed",
+      "Power"
+    ],
+    "locations": [
+      "Tarkuan - Bountiful Dunes"
+    ],
+    "elemWeakness": [
+      "Ice",
+      "Dragon"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/blackgraviosegg-1773096869844.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Black Gravios",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/black-gravios-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "Flying Wyvern",
+    "element": "Fire",
+    "attackType": "Power",
+    "transformAtk": [
+      "Technical"
+    ],
+    "locations": [
+      "Tarkuan - Bountiful Dunes",
+      "Tarkuan - Death's Maw"
+    ],
+    "elemWeakness": [
+      "Water",
+      "Dragon"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/bloodorangebishatenegg-1773096869845.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Blood Orange Bishaten",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/blood-orange-bishaten-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "Fanged Beast",
+    "element": "Fire",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Tarkuan - Bountiful Dunes"
+    ],
+    "elemWeakness": [
+      "Water",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/ajarakanegg-1773096869840.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Ajarakan",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/ajarakan-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Fanged Beast",
+    "element": "Fire",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Tarkuan - Bountiful Dunes"
+    ],
+    "elemWeakness": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/odogaronegg-1773096869860.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Odogaron",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/odogaron-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Fanged Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Speed",
+      "Power"
+    ],
+    "locations": [
+      "Tarkuan - Death's Maw"
+    ],
+    "elemWeakness": [
+      "Ice",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/reydauegg-1773096869862.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Rey Dau",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/rey-dau-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "Flying Wyvern",
+    "element": "Thunder",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Tarkuan - Death's Maw"
+    ],
+    "elemWeakness": [
+      "Ice",
+      "Water"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/raknakadakiegg-1773096869861.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Rakna-Kadaki",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/rakna-kadaki-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Temnoceran",
+    "element": "Non-Elemental",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Technical",
+      "Speed"
+    ],
+    "locations": [
+      "Tarkuan - Death's Maw"
+    ],
+    "elemWeakness": [
+      "Ice",
+      "Water"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/blangongaegg-1773096869844.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Blangonga",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/blango-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★3",
+    "category": "Fanged Beast",
+    "element": "Ice",
+    "attackType": "Power",
+    "transformAtk": [
+      "Speed"
+    ],
+    "locations": [
+      "Serathis - Glacial Caps"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/brachydiosegg-1773096869845.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Brachydios",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/brachydios-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "Brute Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Power",
+    "transformAtk": [
+      "Speed",
+      "Power"
+    ],
+    "locations": [
+      "Serathis - Glacial Caps"
+    ],
+    "elemWeakness": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/legianaegg-1773096869855.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Legiana",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/legiana-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "Flying Wyvern",
+    "element": "Ice",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Power",
+      "Technical"
+    ],
+    "locations": [
+      "Serathis - Glacial Caps"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Fire"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/bariothegg-1773096869843.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Barioth",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/barioth-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "Flying Wyvern",
+    "element": "Ice",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Speed"
+    ],
+    "locations": [
+      "Serathis - Glacial Caps",
+      "Endangered"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/sandbariothegg-1773096869862.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Sand Barioth",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/sand-barioth-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Flying Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Speed"
+    ],
+    "locations": [
+      "Mutation"
+    ],
+    "elemWeakness": [
+      "Ice",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/velkhanaegg-1773096869866.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Velkhana",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/velkhana-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "Elder Dragon",
+    "element": "Ice",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Speed",
+      "Power"
+    ],
+    "locations": [
+      "Serathis - Glacial Caps"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Dragon"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/magnamaloegg-1773096869857.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Magnamalo",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/magnamalo-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "Fanged Wyvern",
+    "element": "Non-Elemental",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Power",
+      "Technical"
+    ],
+    "locations": [
+      "Serathis - Old Capital Road"
+    ],
+    "elemWeakness": [
+      "Thunder",
+      "Water"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/lunagaronegg-1773096869856.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Lunagaron",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/lunagaron-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Fanged Wyvern",
+    "element": "Ice",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Serathis - Old Capital Road"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/gossharagegg-1773096869849.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Goss Harag",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/goss-harag-icon-1773083377252.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Fanged Beast",
+    "element": "Ice",
+    "attackType": "Power",
+    "transformAtk": [
+      "Technical",
+      "Speed"
+    ],
+    "locations": [
+      "Serathis - Old Capital Road"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/fulguranjanathegg-1773096869848.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Fulgur Anjanath",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/fulgur-anjanath-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Brute Wyvern",
+    "element": "Thunder",
+    "attackType": "Power",
+    "transformAtk": [
+      "Speed",
+      "Speed"
+    ],
+    "locations": [
+      "Serathis - Old Capital Road"
+    ],
+    "elemWeakness": [
+      "Ice",
+      "Water"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/jadebarrothegg-1773096869854.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Jade Barroth",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/jade-barroth-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★4",
+    "category": "Brute Wyvern",
+    "element": "Ice",
+    "attackType": "Power",
+    "transformAtk": [
+      "Technical"
+    ],
+    "locations": [
+      "Serathis - Old Capital Road"
+    ],
+    "elemWeakness": [
+      "Fire",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/ebonyodogaronegg-1773096869848.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Ebony Odogaron",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/ebony-odogaron-icon-1773083377255.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "Fanged Wyvern",
+    "element": "Dragon",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Speed",
+      "Power"
+    ],
+    "locations": [
+      "Serathis - Sacrosanctum/Lazlion"
+    ],
+    "elemWeakness": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/deviljhoegg-1773096869846.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Deviljho",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/deviljho-icon-1773083377254.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "Brute Wyvern",
+    "element": "Dragon",
+    "attackType": "Power",
+    "transformAtk": [
+      "Speed",
+      "Power"
+    ],
+    "locations": [
+      "Serathis - Sacrosanctum/Lazlion"
+    ],
+    "elemWeakness": [
+      "Dragon",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/arkveldegg-1773096869842.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Arkveld",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/arkveld-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "Flying Wyvern",
+    "element": "Dragon",
+    "attackType": "Technical",
+    "transformAtk": [
+      "Power"
+    ],
+    "locations": [
+      "Serathis - Sacrosanctum/Lazlion"
+    ],
+    "elemWeakness": [
+      "Dragon"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/malzenoegg-1773096869857.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Malzeno",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/malzeno-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "Elder Dragon",
+    "element": "Dragon",
+    "attackType": "Speed",
+    "transformAtk": [
+      "Technical",
+      "Speed"
+    ],
+    "locations": [
+      "Serathis - Sacrosanctum/Lazlion"
+    ],
+    "elemWeakness": [
+      "Dragon"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/rathalosegg-1773096869862.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Rathalos",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/rathalos-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★5",
+    "category": "Flying Wyvern",
+    "element": "Fire",
+    "attackType": "Power",
+    "transformAtk": [
+      "Technical",
+      "Speed"
+    ],
+    "locations": [
+      "Serathis - Sacrosanctum/Lazlion"
+    ],
+    "elemWeakness": [
+      "Dragon",
+      "Thunder"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/azurerathalosegg-1773096869843.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Azure Rathalos",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/azure-rathalos-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★6",
+    "category": "Flying Wyvern",
+    "element": "Fire",
+    "attackType": "Power",
+    "transformAtk": [
+      "Technical",
+      "Speed"
+    ],
+    "locations": [
+      "Mutation"
+    ],
+    "elemWeakness": [
+      "Dragon",
+      "Ice"
+    ]
+  },
+  {
+    "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/dreadkingrathalosegg-1773096869848.png?width=80&format=jpg&auto=webp&quality=80",
+    "monsterName": "Dreadking Rathalos",
+    "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/dreadking-rathalos-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
+    "rank": "★7",
+    "category": "Flying Wyvern",
+    "element": "Fire",
+    "attackType": "Power",
+    "transformAtk": [],
+    "locations": [
+      "Mutation"
+    ],
+    "elemWeakness": [
+      "Dragon",
+      "Thunder"
+    ]
+  }
+]
