@@ -6,9 +6,9 @@
     "rank": "★1",
     "category": "鸟龙种",
     "element": "",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "阿祖利亚 - 日瓣平原"
@@ -31,9 +31,9 @@
     "rank": "★2",
     "category": "海龙种",
     "element": "水",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "技巧"
+      "technical"
     ],
     "locations": [
       "阿祖利亚 - 日瓣平原",
@@ -57,9 +57,9 @@
     "rank": "★2",
     "category": "鸟龙种",
     "element": "",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "技巧"
+      "technical"
     ],
     "locations": [
       "阿祖利亚 - 日瓣平原",
@@ -83,9 +83,9 @@
     "rank": "★3",
     "category": "铗角种",
     "element": "",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "速度"
+      "speed"
     ],
     "locations": [
       "阿祖利亚 - 日瓣平原",
@@ -109,9 +109,9 @@
     "rank": "★2",
     "category": "鸟龙种",
     "element": "火",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "速度"
+      "speed"
     ],
     "locations": [
       "阿祖利亚 - 日瓣平原",
@@ -135,9 +135,9 @@
     "rank": "★4",
     "category": "飞龙种",
     "element": "火",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "阿祖利亚 - 日瓣平原",
@@ -161,9 +161,9 @@
     "rank": "★5",
     "category": "飞龙种",
     "element": "火",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "突变"
@@ -186,7 +186,7 @@
     "rank": "★7",
     "category": "飞龙种",
     "element": "火",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [],
     "locations": [
       "突变"
@@ -209,9 +209,9 @@
     "rank": "★1",
     "category": "两栖种",
     "element": "",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "技巧"
+      "technical"
     ],
     "locations": [
       "阿祖利亚 - 阔叶盆地",
@@ -235,9 +235,9 @@
     "rank": "★3",
     "category": "牙龙种",
     "element": "电",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "技巧"
+      "technical"
     ],
     "locations": [
       "阿祖利亚 - 阔叶盆地"
@@ -260,9 +260,9 @@
     "rank": "★4",
     "category": "兽龙种",
     "element": "火",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "技巧"
+      "technical"
     ],
     "locations": [
       "阿祖利亚 - 阔叶盆地"
@@ -285,9 +285,9 @@
     "rank": "★3",
     "category": "鸟龙种",
     "element": "火",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "速度"
+      "speed"
     ],
     "locations": [
       "阿祖利亚 - 阔叶盆地",
@@ -311,9 +311,9 @@
     "rank": "★3",
     "category": "鸟龙种",
     "element": "",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "技巧"
+      "technical"
     ],
     "locations": [
       "阿祖利亚 - 阔叶盆地"
@@ -336,9 +336,9 @@
     "rank": "★4",
     "category": "鱼龙种",
     "element": "水",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "阿祖利亚 - 镜湖"
@@ -361,9 +361,9 @@
     "rank": "★5",
     "category": "鱼龙种",
     "element": "水",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "技巧"
+      "technical"
     ],
     "locations": [
       "阿祖利亚 - 镜湖",
@@ -387,10 +387,10 @@
     "rank": "★5",
     "category": "海龙种",
     "element": "电",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "速度",
-      "技巧"
+      "speed",
+      "technical"
     ],
     "locations": [
       "阿祖利亚 - 镜湖",
@@ -414,10 +414,10 @@
     "rank": "★6",
     "category": "海龙种",
     "element": "电",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "力量",
-      "技巧"
+      "power",
+      "technical"
     ],
     "locations": [
       "突变"
@@ -440,9 +440,9 @@
     "rank": "★5",
     "category": "飞龙种",
     "element": "电",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "阿祖利亚 - 镜湖",
@@ -466,7 +466,7 @@
     "rank": "★7",
     "category": "飞龙种",
     "element": "电",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [],
     "locations": [
       "突变"
@@ -489,10 +489,10 @@
     "rank": "★7",
     "category": "古龙种",
     "element": "水",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "速度",
-      "力量"
+      "speed",
+      "power"
     ],
     "locations": [
       "阿祖利亚 - 镜湖"
@@ -515,9 +515,9 @@
     "rank": "★3",
     "category": "飞龙种",
     "element": "",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "速度"
+      "speed"
     ],
     "locations": [
       "阿祖利亚 - 疫石林"
@@ -540,9 +540,9 @@
     "rank": "★4",
     "category": "牙兽种",
     "element": "",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "速度"
+      "speed"
     ],
     "locations": [
       "卡纳尔塔深林 - 卡纳尔塔山",
@@ -566,9 +566,9 @@
     "rank": "★6",
     "category": "飞龙种",
     "element": "",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "速度"
+      "speed"
     ],
     "locations": [
       "卡纳尔塔深林 - 卡纳尔塔山"
@@ -591,9 +591,9 @@
     "rank": "★3",
     "category": "鸟龙种",
     "element": "火",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "卡纳尔塔深林 - 卡纳尔塔山"
@@ -616,9 +616,9 @@
     "rank": "★5",
     "category": "海龙种",
     "element": "冰",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "速度"
+      "speed"
     ],
     "locations": [
       "卡纳尔塔深林 - 卡纳尔塔山",
@@ -627,7 +627,7 @@
     "elemWeakness": [
       {
         "type": "火",
-        "value":2
+        "value": 2
       },
       {
         "type": "电",
@@ -642,9 +642,9 @@
     "rank": "★4",
     "category": "鸟龙种",
     "element": "火",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "卡纳尔塔深林 - 卡纳尔塔山",
@@ -673,14 +673,16 @@
     "locations": [
       "突变"
     ],
-    "elemWeakness": [{
+    "elemWeakness": [
+      {
         "type": "水",
         "value": 2
       },
       {
         "type": "冰",
         "value": 1
-      }]
+      }
+    ]
   },
   {
     "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/arzurosegg-1773096869842.png?width=80&format=jpg&auto=webp&quality=80",
@@ -689,9 +691,9 @@
     "rank": "★2",
     "category": "牙兽种",
     "element": "",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "技巧"
+      "technical"
     ],
     "locations": [
       "卡纳尔塔深林 - 瀑布"
@@ -714,9 +716,9 @@
     "rank": "★3",
     "category": "海龙种",
     "element": "水",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "技巧"
+      "technical"
     ],
     "locations": [
       "卡纳尔塔深林 - 瀑布"
@@ -739,10 +741,10 @@
     "rank": "★3",
     "category": "鸟龙种",
     "element": "",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "细嚼慢咽-速度",
-      "力量"
+      "speed",
+      "power"
     ],
     "locations": [
       "卡纳尔塔深林 - 瀑布",
@@ -766,10 +768,8 @@
     "rank": "★3",
     "category": "草食种",
     "element": "",
-    "attackType": "力量",
-    "transformAtk": [
-      "力量"
-    ],
+    "attackType": "power",
+    "transformAtk": [],
     "locations": [
       "卡纳尔塔深林 - 严界山",
       "卡纳尔塔深林 - 嚎枭森林"
@@ -797,9 +797,9 @@
     "rank": "★3",
     "category": "两栖种",
     "element": "水",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "技巧"
+      "technical"
     ],
     "locations": [
       "卡纳尔塔深林 - 瀑布"
@@ -822,9 +822,9 @@
     "rank": "★4",
     "category": "海龙种",
     "element": "水",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "速度"
+      "speed"
     ],
     "locations": [
       "卡纳尔塔深林 - 瀑布",
@@ -848,9 +848,9 @@
     "rank": "★1",
     "category": "鸟龙种",
     "element": "",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "卡纳尔塔深林 - 嚎枭森林"
@@ -873,9 +873,9 @@
     "rank": "★3",
     "category": "牙兽种",
     "element": "",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "速度"
+      "speed"
     ],
     "locations": [
       "卡纳尔塔深林 - 嚎枭森林",
@@ -899,9 +899,9 @@
     "rank": "★4",
     "category": "飞龙种",
     "element": "",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "技巧"
+      "technical"
     ],
     "locations": [
       "卡纳尔塔深林 - 祝福山丘",
@@ -925,9 +925,9 @@
     "rank": "★5",
     "category": "飞龙种",
     "element": "",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "突变"
@@ -950,7 +950,7 @@
     "rank": "★7",
     "category": "飞龙种",
     "element": "",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [],
     "locations": [
       "突变"
@@ -973,7 +973,7 @@
     "rank": "★5",
     "category": "牙兽种",
     "element": "",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [],
     "locations": [
       "卡纳尔塔深林 - 祝福山丘"
@@ -996,9 +996,9 @@
     "rank": "★4",
     "category": "飞龙种",
     "element": "电",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "卡纳尔塔深林 - 冻穴",
@@ -1018,9 +1018,9 @@
     "rank": "★3",
     "category": "飞龙种",
     "element": "电",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "卡纳尔塔深林 - 冻穴"
@@ -1039,10 +1039,9 @@
     "rank": "★5",
     "category": "海龙种",
     "element": "水",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "速度",
-      "速度"
+      "speed"
     ],
     "locations": [
       "卡纳尔塔深林 - 冻穴",
@@ -1066,7 +1065,7 @@
     "rank": "★7",
     "category": "海龙种",
     "element": "水",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [],
     "locations": [
       "突变"
@@ -1089,9 +1088,9 @@
     "rank": "★2",
     "category": "鸟龙种",
     "element": "",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "塔库安 - 巨龙遗骸"
@@ -1114,10 +1113,10 @@
     "rank": "★3",
     "category": "甲壳种",
     "element": "水",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "技巧",
-      "力量"
+      "technical",
+      "power"
     ],
     "locations": [
       "塔库安 - 巨龙遗骸"
@@ -1140,9 +1139,9 @@
     "rank": "★3",
     "category": "兽龙种",
     "element": "",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "技巧"
+      "technical"
     ],
     "locations": [
       "塔库安 - 巨龙遗骸"
@@ -1165,10 +1164,10 @@
     "rank": "★5",
     "category": "海龙种",
     "element": "水",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "技巧",
-      "速度"
+      "technical",
+      "speed"
     ],
     "locations": [
       "塔库安 - 巨龙遗骸"
@@ -1191,9 +1190,9 @@
     "rank": "★5",
     "category": "飞龙种",
     "element": "",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "塔库安 - 巨龙遗骸",
@@ -1217,12 +1216,11 @@
     "rank": "★6",
     "category": "飞龙种",
     "element": "",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "速度"
+      "speed"
     ],
     "locations": [
-      "突变",
       "突变"
     ],
     "elemWeakness": [
@@ -1246,7 +1244,6 @@
     "attackType": "",
     "transformAtk": [],
     "locations": [
-      "突变",
       "突变"
     ],
     "elemWeakness": [
@@ -1267,10 +1264,10 @@
     "rank": "★5",
     "category": "飞龙种",
     "element": "",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "速度",
-      "速度"
+      "speed",
+      "speed"
     ],
     "locations": [
       "塔库安 - 洛可可岩"
@@ -1293,10 +1290,10 @@
     "rank": "★6",
     "category": "飞龙种",
     "element": "",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "速度",
-      "速度"
+      "speed",
+      "speed"
     ],
     "locations": [
       "塔库安 - 洛可可岩",
@@ -1320,7 +1317,7 @@
     "rank": "★7",
     "category": "飞龙种",
     "element": "",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [],
     "locations": [
       "突变"
@@ -1343,9 +1340,9 @@
     "rank": "★4",
     "category": "铗角种",
     "element": "",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "速度"
+      "speed"
     ],
     "locations": [
       "塔库安 - 洛可可岩"
@@ -1368,9 +1365,9 @@
     "rank": "★5",
     "category": "飞龙种",
     "element": "火",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "技巧"
+      "technical"
     ],
     "locations": [
       "塔库安 - 洛可可岩"
@@ -1393,10 +1390,10 @@
     "rank": "★5",
     "category": "兽龙种",
     "element": "火",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "技巧",
-      "力量"
+      "technical",
+      "power"
     ],
     "locations": [
       "塔库安 - 洛可可岩"
@@ -1419,7 +1416,7 @@
     "rank": "★7",
     "category": "兽龙种",
     "element": "火",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [],
     "locations": [
       "突变"
@@ -1442,10 +1439,10 @@
     "rank": "★5",
     "category": "牙龙种",
     "element": "电",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "技巧",
-      "力量"
+      "technical",
+      "power"
     ],
     "locations": [
       "塔库安 - 洛可可岩",
@@ -1469,10 +1466,10 @@
     "rank": "★6",
     "category": "牙龙种",
     "element": "龙",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "速度",
-      "力量"
+      "speed",
+      "power"
     ],
     "locations": [
       "突变"
@@ -1495,7 +1492,7 @@
     "rank": "★7",
     "category": "牙龙种",
     "element": "电",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [],
     "locations": [
       "突变"
@@ -1518,10 +1515,10 @@
     "rank": "★6",
     "category": "飞龙种",
     "element": "火",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "速度",
-      "力量"
+      "speed",
+      "power"
     ],
     "locations": [
       "塔库安 - 丰饶沙丘"
@@ -1544,9 +1541,9 @@
     "rank": "★6",
     "category": "飞龙种",
     "element": "火",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "技巧"
+      "technical"
     ],
     "locations": [
       "塔库安 - 丰饶沙丘",
@@ -1570,9 +1567,9 @@
     "rank": "★4",
     "category": "牙兽种",
     "element": "火",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "塔库安 - 丰饶沙丘"
@@ -1595,9 +1592,9 @@
     "rank": "★5",
     "category": "牙兽种",
     "element": "火",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "塔库安 - 丰饶沙丘"
@@ -1620,10 +1617,10 @@
     "rank": "★5",
     "category": "牙龙种",
     "element": "",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "速度",
-      "力量"
+      "speed",
+      "power"
     ],
     "locations": [
       "塔库安 - 死颚"
@@ -1646,9 +1643,9 @@
     "rank": "★6",
     "category": "飞龙种",
     "element": "电",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "塔库安 - 死颚"
@@ -1671,10 +1668,10 @@
     "rank": "★5",
     "category": "铗角种",
     "element": "",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "技巧",
-      "速度"
+      "technical",
+      "speed"
     ],
     "locations": [
       "塔库安 - 死颚"
@@ -1697,9 +1694,9 @@
     "rank": "★3",
     "category": "牙兽种",
     "element": "冰",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "速度"
+      "speed"
     ],
     "locations": [
       "塞拉蒂斯 - 冰盖"
@@ -1722,10 +1719,10 @@
     "rank": "★6",
     "category": "兽龙种",
     "element": "",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "速度",
-      "力量"
+      "speed",
+      "power"
     ],
     "locations": [
       "塞拉蒂斯 - 冰盖"
@@ -1748,10 +1745,10 @@
     "rank": "★4",
     "category": "飞龙种",
     "element": "冰",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "力量",
-      "技巧"
+      "power",
+      "technical"
     ],
     "locations": [
       "塞拉蒂斯 - 冰盖"
@@ -1774,9 +1771,9 @@
     "rank": "★4",
     "category": "飞龙种",
     "element": "冰",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "速度"
+      "speed"
     ],
     "locations": [
       "塞拉蒂斯 - 冰盖",
@@ -1800,9 +1797,9 @@
     "rank": "★5",
     "category": "飞龙种",
     "element": "",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "速度"
+      "speed"
     ],
     "locations": [
       "突变"
@@ -1825,10 +1822,10 @@
     "rank": "★7",
     "category": "古龙种",
     "element": "冰",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "速度",
-      "力量"
+      "speed",
+      "power"
     ],
     "locations": [
       "塞拉蒂斯 - 冰盖"
@@ -1851,10 +1848,10 @@
     "rank": "★6",
     "category": "牙龙种",
     "element": "",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "力量",
-      "技巧"
+      "power",
+      "technical"
     ],
     "locations": [
       "塞拉蒂斯 - 旧都路"
@@ -1877,9 +1874,9 @@
     "rank": "★5",
     "category": "牙龙种",
     "element": "冰",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "塞拉蒂斯 - 旧都路"
@@ -1902,10 +1899,10 @@
     "rank": "★5",
     "category": "牙兽种",
     "element": "冰",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "技巧",
-      "速度"
+      "technical",
+      "speed"
     ],
     "locations": [
       "塞拉蒂斯 - 旧都路"
@@ -1928,10 +1925,10 @@
     "rank": "★5",
     "category": "兽龙种",
     "element": "电",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "速度",
-      "速度"
+      "speed",
+      "speed"
     ],
     "locations": [
       "塞拉蒂斯 - 旧都路"
@@ -1954,9 +1951,9 @@
     "rank": "★4",
     "category": "兽龙种",
     "element": "冰",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "技巧"
+      "technical"
     ],
     "locations": [
       "塞拉蒂斯 - 旧都路"
@@ -1979,10 +1976,10 @@
     "rank": "★6",
     "category": "牙龙种",
     "element": "龙",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "速度",
-      "力量"
+      "speed",
+      "power"
     ],
     "locations": [
       "塞拉蒂斯 - 圣域/拉兹里昂"
@@ -2005,10 +2002,10 @@
     "rank": "★7",
     "category": "兽龙种",
     "element": "龙",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "速度",
-      "力量"
+      "speed",
+      "power"
     ],
     "locations": [
       "塞拉蒂斯 - 圣域/拉兹里昂"
@@ -2026,14 +2023,14 @@
   },
   {
     "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/arkveldegg-1773096869842.png?width=80&format=jpg&auto=webp&quality=80",
-    "monsterName": "阿克维尔德",
+    "monsterName": "锁刃龙",
     "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/arkveld-icon-1773083377257.jpg?width=100&format=jpg&auto=webp&quality=80",
     "rank": "★6",
     "category": "飞龙种",
     "element": "龙",
-    "attackType": "技巧",
+    "attackType": "technical",
     "transformAtk": [
-      "力量"
+      "power"
     ],
     "locations": [
       "塞拉蒂斯 - 圣域/拉兹里昂"
@@ -2052,10 +2049,10 @@
     "rank": "★7",
     "category": "古龙种",
     "element": "龙",
-    "attackType": "速度",
+    "attackType": "speed",
     "transformAtk": [
-      "技巧",
-      "速度"
+      "technical",
+      "speed"
     ],
     "locations": [
       "塞拉蒂斯 - 圣域/拉兹里昂"
@@ -2074,10 +2071,10 @@
     "rank": "★5",
     "category": "飞龙种",
     "element": "火",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "技巧",
-      "速度"
+      "technical",
+      "speed"
     ],
     "locations": [
       "塞拉蒂斯 - 圣域/拉兹里昂"
@@ -2095,15 +2092,15 @@
   },
   {
     "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/azurerathalosegg-1773096869843.png?width=80&format=jpg&auto=webp&quality=80",
-    "monsterName": "火龙（苍）",
+    "monsterName": "苍火龙",
     "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/azure-rathalos-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
     "rank": "★6",
     "category": "飞龙种",
     "element": "火",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [
-      "技巧",
-      "速度"
+      "technical",
+      "speed"
     ],
     "locations": [
       "突变"
@@ -2121,12 +2118,12 @@
   },
   {
     "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/dreadkingrathalosegg-1773096869848.png?width=80&format=jpg&auto=webp&quality=80",
-    "monsterName": "雄火龙（黑炎王）",
+    "monsterName": "火龙（黑炎王）",
     "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/dreadking-rathalos-icon-1773083377256.jpg?width=100&format=jpg&auto=webp&quality=80",
     "rank": "★7",
     "category": "飞龙种",
     "element": "火",
-    "attackType": "力量",
+    "attackType": "power",
     "transformAtk": [],
     "locations": [
       "突变"

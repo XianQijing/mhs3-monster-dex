@@ -1,47 +1,58 @@
-import { useState } from 'react'
-import content from '../public/zh.json'
-import './App.css'
+import { useState } from 'react';
+import content from '../public/zh.json';
+import './App.css';
+import { attackTypeMap, transformAtkMap } from './constant';
 
 function sortByFirstLetter(list, options = {}) {
-    const {
-        ascending = true,
-        caseSensitive = false,
-        locale = 'zh-CN'
-    } = options;
+  const {
+    ascending = true,
+    caseSensitive = false,
+    locale = 'zh-CN'
+  } = options;
 
-    // 过滤掉非字符串项或空字符串（可根据需求调整）
-    const validList = list.filter(item => typeof item === 'string' && item.trim() !== '');
-
-    // 使用 localeCompare 进行本地化字符串比较
-    const sorted = [...list].sort((a, b) => {
-        const compareResult = a.monsterName.localeCompare(b.monsterName, locale, {
-            sensitivity: caseSensitive ? 'variant' : 'base', // base: 不区分大小写和变音符号
-            ignorePunctuation: true, // 忽略标点符号
-            numeric: false            // 是否启用数字自然排序
-        });
-        return ascending ? compareResult : -compareResult;
+  // 使用 localeCompare 进行本地化字符串比较
+  const sorted = [...list].sort((a, b) => {
+    const compareResult = a.monsterName.localeCompare(b.monsterName, locale, {
+      sensitivity: caseSensitive ? 'variant' : 'base', // base: 不区分大小写和变音符号
+      ignorePunctuation: true, // 忽略标点符号
+      numeric: false            // 是否启用数字自然排序
     });
+    return ascending ? compareResult : -compareResult;
+  });
 
-    return sorted;
+  return sorted;
 }
 
 const sortedContent = sortByFirstLetter(content, { ascending: true, caseSensitive: false, locale: 'zh-CN' });
 
 function App() {
   const [searchTerm, setSearchTerm] = useState('')
-  
+
   // 根据 monsterName 筛选列表
-  const filteredContent = sortedContent.filter(item => 
+  const filteredContent = sortedContent.filter(item =>
     item.monsterName && item.monsterName.toLowerCase().includes(searchTerm.toLowerCase())
   )
+
+  function handleListItemAttackType(item: string, key?:string, pre?: string) {
+    const attackTypeConfig = attackTypeMap[item];
+    if (attackTypeConfig) {
+      return (
+        <span key={key} className={`tag ${!key && 'normal'}`} style={{
+          color: 'white',
+          backgroundColor: attackTypeConfig.color
+        }}>{pre && `${pre}: `}{ attackTypeConfig.name}</span>
+      )
+    }
+    return null;
+  }
 
   return (
     <div className="app-container">
       <div className='input-wrapper'>
         <div className='search-box'>
           <svg className='search-icon' viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M11 19C15.4183 19 19 15.4183 19 11C19 6.58172 15.4183 3 11 3C6.58172 3 3 6.58172 3 11C3 15.4183 6.58172 19 11 19Z" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-            <path d="M21 21L16.65 16.65" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+            <path d="M11 19C15.4183 19 19 15.4183 19 11C19 6.58172 15.4183 3 11 3C6.58172 3 3 6.58172 3 11C3 15.4183 6.58172 19 11 19Z" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+            <path d="M21 21L16.65 16.65" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
           </svg>
           <input
             className='search-input'
@@ -51,7 +62,7 @@ function App() {
             onChange={(e) => setSearchTerm(e.target.value)}
           />
           {searchTerm && (
-            <button 
+            <button
               className='clear-btn'
               onClick={() => setSearchTerm('')}
               aria-label="清除搜索"
@@ -61,14 +72,14 @@ function App() {
           )}
         </div>
       </div>
-      
+
       <div className="list">
         {filteredContent.length > 0 ? (
           filteredContent.map(item => (
             <div className='list-item' key={item.monsterName}>
               <div className='list-item_icon-wrapper'>
-                <img 
-                  src={item.monsterIcon} 
+                <img
+                  src={item.monsterIcon}
                   alt={item.monsterName}
                   className='list-item_icon'
                   onError={(e) => {
@@ -78,23 +89,21 @@ function App() {
               </div>
               <div className='list-item_info'>
                 <div className='list-item_name'>
-                  {item.element && `[${item.element}]`} {item.monsterName}
+                  {item.monsterName}
                 </div>
-                {item.transformAtk && item.transformAtk.length > 0 && (
                   <div className='list-item_tags'>
-                    <span className='tag normal'>{item.attackType}</span>
-                    {item.transformAtk.map((atk, index) => (
-                      <span key={`${atk}-${index}`} className='tag'>{atk}</span>
+                    {handleListItemAttackType(item.attackType)}
+                    {item.transformAtk && item.transformAtk.length > 0 && item.transformAtk.map((atk, index) => (
+                      handleListItemAttackType(atk, `${atk}-${item.monsterName}-${index}`, transformAtkMap[item.monsterName] && transformAtkMap[item.monsterName][index])
                     ))}
-                    {item.elemWeakness.map((weakness, index) => (
+                    {/* {item.elemWeakness.map((weakness, index) => (
                       <span key={`${weakness.type}-${index}`} className='tag weak'>{weakness.type}{Array.from({ length: weakness.value }).fill('↓').join('')}</span>
-                    ))}
+                    ))} */}
                   </div>
-                )}
               </div>
               <div className='list-item_arrow'>
                 <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M9 18L15 12L9 6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                  <path d="M9 18L15 12L9 6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
                 </svg>
               </div>
             </div>
