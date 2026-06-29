@@ -96,16 +96,16 @@ function App() {
                     {item.transformAtk && item.transformAtk.length > 0 && item.transformAtk.map((atk, index) => (
                       handleListItemAttackType(atk, `${atk}-${item.monsterName}-${index}`, transformAtkMap[item.monsterName] && transformAtkMap[item.monsterName][index])
                     ))}
-                    {/* {item.elemWeakness.map((weakness, index) => (
+                    {item.elemWeakness.map((weakness, index) => (
                       <span key={`${weakness.type}-${index}`} className='tag weak'>{weakness.type}{Array.from({ length: weakness.value }).fill('↓').join('')}</span>
-                    ))} */}
+                    ))}
                   </div>
               </div>
-              <div className='list-item_arrow'>
+              {/* <div className='list-item_arrow'>
                 <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M9 18L15 12L9 6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
                 </svg>
-              </div>
+              </div> */}
             </div>
           ))
         ) : (

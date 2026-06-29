@@ -204,7 +204,7 @@
   },
   {
     "eggImage": "https://assets-prd.ignimgs.com/2026/03/09/chatacabraegg-1773096869846.png?width=80&format=jpg&auto=webp&quality=80",
-    "monsterName": "砂蛙龙",
+    "monsterName": "缠蛙",
     "monsterIcon": "https://assets-prd.ignimgs.com/2026/03/09/chatacabra-icon-1773083377253.jpg?width=100&format=jpg&auto=webp&quality=80",
     "rank": "★1",
     "category": "两栖种",
@@ -425,11 +425,11 @@
     "elemWeakness": [
       {
         "type": "火",
-        "value": 2
+        "value": 1
       },
       {
         "type": "龙",
-        "value": 1
+        "value": 2
       }
     ]
   },
@@ -542,7 +542,7 @@
     "element": "",
     "attackType": "power",
     "transformAtk": [
-      "speed"
+      "speed","technical"
     ],
     "locations": [
       "卡纳尔塔深林 - 卡纳尔塔山",
